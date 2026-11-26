@@ -1,0 +1,8 @@
+# figures and compute/rcwa.py
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+pillow==13.0.0
+grcwa==0.1.2
+# compute/fem.py only
+ngsolve==6.2.2608

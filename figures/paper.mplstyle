@@ -1,0 +1,28 @@
+# Matplotlib style of the figures: 7 pt sans-serif everywhere, thin lines, text kept as text in the PDF.
+figure.dpi:         250
+font.size:          7
+font.family:        sans-serif
+font.sans-serif:    Nimbus Sans, Helvetica, Arial, DejaVu Sans, sans-serif
+axes.titlesize:     medium
+axes.labelsize:     medium
+xtick.labelsize:    medium
+ytick.labelsize:    medium
+legend.fontsize:    medium
+mathtext.fontset:   custom
+mathtext.rm:        sans
+mathtext.it:        sans:italic
+mathtext.bf:        sans:bold
+axes.formatter.use_mathtext: True
+pdf.fonttype:       42
+axes.xmargin:       0
+axes.linewidth:     0.5
+xtick.major.size:   2.5
+xtick.major.width:  0.5
+ytick.major.size:   2.5
+ytick.major.width:  0.5
+lines.linewidth:    1.2
+legend.frameon:     False
+image.aspect:       auto
+savefig.dpi:        250
+savefig.bbox:       tight
+savefig.pad_inches: 0.01
