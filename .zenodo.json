@@ -3,8 +3,8 @@
   "upload_type": "software",
   "description": "Code and data behind the figures of the Letter \"Observation of Chiral Lasing from Monoclinic Resonant Metasurfaces\" by Ivan Toftul and co-authors, and of its Supplemental Material.",
   "creators": [
-    {"name": "Toftul, Ivan", "affiliation": "Research School of Physics, Australian National University"},
     {"name": "Li, Zhuang", "affiliation": "School of Physics and Optoelectronics, Shandong Normal University"},
+    {"name": "Toftul, Ivan", "affiliation": "Research School of Physics, Australian National University"},
     {"name": "Cai, Yangjian", "affiliation": "School of Physics and Optoelectronics, Shandong Normal University"},
     {"name": "Ao, Xianyu", "affiliation": "School of Physics and Optoelectronics, Shandong Normal University"},
     {"name": "Kivshar, Yuri", "affiliation": "Research School of Physics, Australian National University"}
