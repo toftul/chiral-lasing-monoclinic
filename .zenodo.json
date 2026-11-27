@@ -1,0 +1,9 @@
+{
+  "title": "Code and data for \"Observation of Chiral Lasing from Monoclinic Resonant Metasurfaces\"",
+  "upload_type": "software",
+  "description": "Code and data behind the figures of the Letter \"Observation of Chiral Lasing from Monoclinic Resonant Metasurfaces\" by Ivan Toftul and co-authors, and of its Supplemental Material.",
+  "creators": [
+    {"name": "Toftul, Ivan", "affiliation": "Research School of Physics, Australian National University"}
+  ],
+  "license": "cc-by-4.0"
+}
