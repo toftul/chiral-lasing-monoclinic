@@ -99,3 +99,7 @@ These files come from the original project scripts.  The code here reproduces th
 For B₁ of Design 2 at δ = 30 nm the raw file gives Q = 1705 and the authors' plot 1763.  So the fit gives
 κ = 6.24 × 10⁻⁴, and the manuscript quotes 6.1 × 10⁻⁴.  The figures use the manuscript values (`KAPPA` in
 `compute/fem.py`).
+
+## License
+
+The code and the data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`).
