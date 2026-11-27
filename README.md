@@ -1,6 +1,6 @@
 # Observation of Chiral Lasing from Monoclinic Resonant Metasurfaces
 
-[![DOI](https://zenodo.org/badge/github/1473827693.svg)](https://doi.org/10.5281/zenodo.24574076)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24574076.svg)](https://doi.org/10.5281/zenodo.24574076)
 
 Code and data behind the figures of the Letter and its Supplemental Material (SM).
 
